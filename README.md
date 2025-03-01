@@ -26,11 +26,6 @@ Je suis passionné par l’électronique, les systèmes embarqués et les systè
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richedor&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Richedor/Richedor/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Richedor/count.svg?"  />
