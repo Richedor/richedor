@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 Bienvenue sur mon GitHub !
 
-<!--
-**Richedor/richedor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 À propos de moi
 
-Here are some ideas to get you started:
+Je suis passionné par l’électronique, les systèmes embarqués et les systèmes industrielles. Mon parcours inclut des expériences significatives en développement de technologies innovantes pour l’environnement et l’industrie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+- **Systèmes embarqués et IoT** : C++, Python, FPGA (VHDL), intégration de capteurs, transmission LoRa et Wi-Fi, acquisition et traitement de signal.
+- **Programmation** : ARM assembly, Machine Learning, modélisation UML, création d’interfaces Web (HTML, CSS, JavaScript).
+- **Automatisme et industrie** : MATLAB, Proteus, TIA Portal, Factory IO, gestion API (LADDER, GRAFCET), outils Vijeo Designer.
+- **Gestion de projets et innovation** : Gestion de l’innovation, application des normes qualité.
+
+## 📌 Projets en cours
+- **Observatoire Environnemental** : Développement de stations de capteurs en temps réel pour l’analyse physico-chimique des eaux et collaboration avec le MIT sur une plateforme Open Access de partage des données.
+- **Détection d’objets en temps réel** : Traitement d’images avec OpenCV.
+- **Réseau de capteurs LoRa** : Mise en place d’un réseau de capteurs pour la surveillance environnementale.
+- **TickUp** : Développement d’une plateforme de billetterie en ligne et d’une application mobile de gestion d’accès aux événements.
+
+Merci de visiter mon profil ! 🚀
+
