@@ -16,5 +16,10 @@ Je suis passionné par l’électronique, les systèmes embarqués et les systè
 - **Réseau de capteurs LoRa** : Mise en place d’un réseau de capteurs pour la surveillance environnementale.
 - **TickUp** : Développement d’une plateforme de billetterie en ligne et d’une application mobile de gestion d’accès aux événements.
 
+![Statut du Build](https://img.shields.io/badge/Statut-Succès-brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/ton-utilisateur?style=social)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=radical)
+![GIF animé](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=tokyonight)  
 Merci de visiter mon profil ! 🚀
 
